@@ -1,0 +1,11 @@
+torch
+torchvision
+timm
+ultralytics
+sentence-transformers
+scikit-learn
+pandas
+numpy
+scipy
+joblib
+pillow

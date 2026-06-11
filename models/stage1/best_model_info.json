@@ -1,0 +1,5 @@
+{
+  "type": "timm",
+  "model_arch": "resnet50",
+  "weights_path": "best_model.pt"
+}
